@@ -9,6 +9,7 @@ env/
 ENV/
 
 # PyInstaller
+dist/
 build/
 *.spec
 
